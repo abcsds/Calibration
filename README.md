@@ -1,3 +1,5 @@
-# Calibracion para eyetracker
+# Eyetracker Calibration
 
-TODO: Agregar calibracion del ejemplo de tobii research
+Psychopy implementation for a tobii-pro eye-tracker. Currently only working correctly for pupilometry. 
+TODO: change screen coordenate system for feedback.
+
